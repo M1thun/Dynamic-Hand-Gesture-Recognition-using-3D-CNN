@@ -16,4 +16,4 @@ Last but not the least..
 
 9. ** REAL-TIME visualization of results on Chalearn ConGD videos using OpenCV3. **
 
-*Please follow the copyrights procedures for downloading Chalearn Dataset from their official website.
+##Please follow the copyrights procedures for downloading Chalearn Dataset from their official website.##
