@@ -1,7 +1,7 @@
 # Dynamic-Hand-Gesture-Recognition-using-3D-CNN
 Project on recognising dynamic hand gesture from Chalearn Continuous gesture dataset for a total of 39 different gesture classes using 3D convolutional neural networks on Python3.
 
-The repository contains the self-explanatory python3 code for starting from:
+The repository contains the self-explanatory python3 code starting from:
 1. Fetching the data.
 2. Dataset generation.
 3. Dataset Pre-preprocessing.
