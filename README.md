@@ -14,4 +14,4 @@ The repository contains the self-explanatory python3 code for starting from:
 
 Last but not the least..
 
-9. * REAL-TIME visualization of results on Chalearn ConGD videos using OpenCV3.*
+9. * REAL-TIME visualization of results on Chalearn ConGD videos using OpenCV3. *
