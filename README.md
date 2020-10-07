@@ -1,8 +1,8 @@
 # Dynamic-Hand-Gesture-Recognition-using-3D-CNN
 Hand gesture recognition in computer science and language translation is the means of recognizing hand gestures through mathematical methods. Gesture recognition has become one of growing fields of research. Hand gesture recognition has ample number of applications including human–computer interaction, sign language and virtual/augmented gaming technology. Users can perform gestures to control or interact with devices without physically touching them. There are many architectures designed in the field of gesture detection, but existing traditional solutions are not robust to detect hand gestures with high accuracy in real time in the presence of complex patterns in performing hand gestures. In this paper, we present a fast and efficient algorithm for classifying different dynamic hand gestures using 3D-convolution neural networks. Unlike 2D-convolution neural networks, 3D-convolution networks extract features along the temporal dimension for analysis of gestures performed in videos. The paper also focuses on improving accuracy and describes data preprocessing and optimization techniques for obtaining the model inference in real time at 30fps. Our method achieves a correct recognition accuracy of 90.7% for the evaluation made on the testing videos in Chalearn LAP Continuous Gesture dataset. The detection process can be tested on laptops with standard specifications.
 
-***
 ---
+***
 
 ### Output Samples
 ![output_gesture](https://user-images.githubusercontent.com/35320633/95294282-9ef47380-0892-11eb-98c2-dfaed70688c5.jpg)
