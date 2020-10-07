@@ -3,10 +3,10 @@ Hand gesture recognition in computer science and language translation is the mea
 
 ### Output Samples
 ![output_gesture](https://user-images.githubusercontent.com/35320633/95294282-9ef47380-0892-11eb-98c2-dfaed70688c5.jpg)
-.
-.
+
+
 ### Neural Network Architecture
-![Neural-Network](https://user-images.githubusercontent.com/35320633/95294582-2a6e0480-0893-11eb-9a41-b07ff9901c48.jpg)
+![Neural-Network](https://user-images.githubusercontent.com/35320633/95294896-b4b66880-0893-11eb-87ed-dba443ba2442.jpg)
 
 ### The repository contains the self-explanatory python3 code starting from:
 1. Fetching the data.
