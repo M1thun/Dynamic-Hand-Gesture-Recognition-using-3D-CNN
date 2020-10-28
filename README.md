@@ -27,6 +27,13 @@ Hand gesture recognition in computer science and language translation is the mea
 Last but not the least..
 
 10. ** REAL-TIME visualization of results on Chalearn ConGD videos using OpenCV3. **
+
 ---
+
+### Cite as:
+Channayanamath M. et al. (2021) Dynamic Hand Gesture Recognition Using 3D-Convolutional Neural Network. In: Satapathy S.C., Bhateja V., Ramakrishna Murty M., Gia Nhu N., Jayasri Kotti (eds) Communication Software and Networks. Lecture Notes in Networks and Systems, vol 134. Springer, Singapore. http://doi-org-443.webvpn.fjmu.edu.cn/10.1007/978-981-15-5397-4_16
+
+---
+
 ### Please follow the copyrights procedures for downloading Chalearn Dataset from their official website.
 https://gesture.chalearn.org/2016-looking-at-people-cvpr-challenge/isogd-and-congd-datasets
